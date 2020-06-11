@@ -14,7 +14,7 @@
 
 <a href="http://gmail.com">Gmail</a>
 
-is a link to another nifty site
+is a link to Gmail
 
 <H1>Hello Welcome</H1>
 
