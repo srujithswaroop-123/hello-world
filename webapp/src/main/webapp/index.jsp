@@ -12,7 +12,7 @@
 
 <HR>
 
-<a href="http://google.com">Youtube</a>
+<a href="http://gmail.com">Gmail</a>
 
 is a link to another nifty site
 
